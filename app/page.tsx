@@ -1,6 +1,7 @@
-import { ArrowRightIcon } from '@heroicons/react/24/outline';
+import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
+import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import AcmeLogo from '@/app/ui/acme-logo';
 import { lusitana } from '@/app/ui/fonts';
 
